@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm KleMoretti!
 
-<!--
-**KleMoretti/KleMoretti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=KleMoretti&color=blueviolet&style=flat-square)
+  
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on exciting projects
+- 🌱 I'm currently learning new technologies
+- 💬 Ask me about anything tech-related
+- 📫 How to reach me: Check out my profile
+- ⚡ Fun fact: Always curious and ready to learn!
+
+## 🛠️ Tech Stack
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KleMoretti&show_icons=true&theme=radical&hide_border=true)
+
+## 📊 GitHub Activity
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleMoretti&layout=compact&theme=radical&hide_border=true)
+
+## 🌟 Featured Projects
+
+<!-- Add your featured projects here -->
+
+## 🤝 Let's Connect
+
+Feel free to reach out if you want to collaborate on projects, discuss technology, or just have a chat!
+
+---
+
+<div align="center">
+  
+  **Thanks for visiting my profile!** 😊
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
