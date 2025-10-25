@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on exciting projects
+- 🔭 I'm currently studying in WHUT!
 - 🌱 I'm currently learning new technologies
 - 💬 Ask me about anything tech-related
 - 📫 How to reach me: Check out my profile
-- ⚡ Fun fact: Always curious and ready to learn!
+- ⚡ Fun fact: Always curious and ready to learn! 
 
 ## 🛠️ Tech Stack
 
